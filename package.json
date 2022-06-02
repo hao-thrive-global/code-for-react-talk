@@ -1,0 +1,19 @@
+{
+  "name": "react-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1",
+    "typescript": "^4.6.4",
+    "@babel/core": "7.6.4",
+    "@babel/plugin-proposal-optional-chaining": "7.6.0",
+    "@babel/preset-react": "7.6.3"
+  },
+  "author": "Haoran Zhang",
+  "license": "MIT"
+}
